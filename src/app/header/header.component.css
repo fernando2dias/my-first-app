@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+.navbar-brand{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 210px;
+}
+
+.bg-purple{
+    background: rgb(67,0,72);
+    background: linear-gradient(90deg, rgba(67,0,72,1) 0%, rgba(72,47,0,1) 100%);
+}
+
+.navbar-brand{
+    font-family: "Galada", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+}
